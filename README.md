@@ -49,10 +49,7 @@ I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) wi
 
 ### **GirlScript Summer of Code (GSSOC 2026)** | *Active Contributor*
 <p align="left">
-  <img src=<<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/c36ca607-09e9-4cd8-ae51-5ef49f754e6e" />
-" />
- />
-
+  <img src="https://raw.githubusercontent.com/girlscript/GSSoC/master/GSSoC-Logo.png" alt="GSSoC Logo" width="300" height="auto" />
 </p>
 
 * **Successfully merged 30+ Pull Requests (PRs)** across diverse open-source repositories.
