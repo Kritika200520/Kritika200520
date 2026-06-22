@@ -1,13 +1,4 @@
-# Hi there, I'm Kritika 👋
-
-<p align="center">
-  <img src="<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/0bdfd128-01a6-47ab-98ed-eeb5e6ae701c" />
-" alt="GSSoC 2026 Contributor" width="200" />
-  <img src="<img width="1080" height="1080" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/b98e84d4-5a4a-46ed-a744-de7fc3c0e627" />
-" alt="GSSoC 2026 Week 4 Streak" width="200" />
-  <img src="<img width="1080" height="1080" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/e10b1e5e-915c-457b-b927-76fe28187e8b" />
-" alt="GSSoC 2026 Champion" width="200" />
-</p>
+# Hi there, I'm Kritika 
 
 ---
 
@@ -52,11 +43,6 @@ I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) wi
 ## 🌍 Open Source Contributions
 
 ### **GirlScript Summer of Code (GSSOC 2026)** | *Active Contributor*
-<p align="center">
-  <img src="./assets/gssoc-badge-role_contributor.png" alt="GSSoC 2026 Contributor" width="200" />
-  <img src="./assets/gssoc-badge-consistent.png" alt="GSSoC 2026 Week 4 Streak" width="200" />
-  <img src="./assets/gssoc-badge-gssoc_champion.png" alt="GSSoC 2026 Champion" width="200" />
-</p>
 
 * **Successfully merged 30+ Pull Requests (PRs)** across diverse open-source repositories.
 * Collaborating closely with project maintainers using advanced Git/GitHub workflows, managing issue tracking, and optimizing code structure.
