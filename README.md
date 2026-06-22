@@ -49,9 +49,9 @@ I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) wi
 
 ### **GirlScript Summer of Code (GSSOC 2026)** | *Active Contributor*
 <p align="center">
-  <img src="./assets/gssoc-badge-role_contributor.jpg" alt="GSSoC 2026 Contributor" width="200" />
-  <img src="./assets/gssoc-badge-consistent.jpg" alt="GSSoC 2026 Week 4 Streak" width="200" />
-  <img src="./assets/gssoc-badge-gssoc_champion.jpg" alt="GSSoC 2026 Champion" width="200" />
+  <img src="./assets/gssoc-badge-role_contributor.png" alt="GSSoC 2026 Contributor" width="200" />
+  <img src="./assets/gssoc-badge-consistent.png" alt="GSSoC 2026 Week 4 Streak" width="200" />
+  <img src="./assets/gssoc-badge-gssoc_champion.png" alt="GSSoC 2026 Champion" width="200" />
 </p>
 
 * **Successfully merged 30+ Pull Requests (PRs)** across diverse open-source repositories.
