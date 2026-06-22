@@ -1,8 +1,12 @@
 # Hi there, I'm Kritika 👋
 
-<p align="left">
-  <a href="mailto:kritikasnarayan05@gmail.com"><img src="https://img.shields.io/badge/Email-kritikasnarayan05%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/kritika-s-narayan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Kritika%20S%20Narayan-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<p align="center">
+  <img src="<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/0bdfd128-01a6-47ab-98ed-eeb5e6ae701c" />
+" alt="GSSoC 2026 Contributor" width="200" />
+  <img src="<img width="1080" height="1080" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/b98e84d4-5a4a-46ed-a744-de7fc3c0e627" />
+" alt="GSSoC 2026 Week 4 Streak" width="200" />
+  <img src="<img width="1080" height="1080" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/e10b1e5e-915c-457b-b927-76fe28187e8b" />
+" alt="GSSoC 2026 Champion" width="200" />
 </p>
 
 ---
