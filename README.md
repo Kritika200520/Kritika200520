@@ -50,11 +50,10 @@ I am a dedicated **B.Tech Information Technology** undergraduate student (**Time
 
 #### 🏅 GSSoC 2026 Badges:
 <p align="left">
-  <img width="1080" height="1080" alt="gssoc-badge-prolific" src="https://github.com/user-attachments/assets/4131a51d-cebb-4200-b99f-a857779bc12f" />
-<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/dba3e251-f5cd-4478-9073-8d3b2cb57b48" />
-<img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/b97202fd-a4b4-4175-9956-882df3b912e7" />
-
- <img width="1080" height="1080" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/a8bdfeae-a70f-4cb1-b424-350e78acb294" />
+  <img width="90" height="1080" alt="gssoc-badge-prolific" src="https://github.com/user-attachments/assets/4131a51d-cebb-4200-b99f-a857779bc12f" />
+<img width="90" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/dba3e251-f5cd-4478-9073-8d3b2cb57b48" />
+<img width="90" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/b97202fd-a4b4-4175-9956-882df3b912e7" />
+ <img width="90" height="1080" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/a8bdfeae-a70f-4cb1-b424-350e78acb294" />
 
 </p>
 
