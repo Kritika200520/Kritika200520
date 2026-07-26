@@ -1,9 +1,10 @@
-# Hi there, I'm Kritika 
+
+# Hi there, I'm Kritika 👋
 
 ---
 
 ## 🚀 About Me
-I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) with a strong interest in robotics, embedded systems, and AI/ML integration. I am passionate about engineering hardware-software solutions for emergency response and actively contribute to the global open-source developer community.
+I am a dedicated **B.Tech Information Technology** undergraduate student (**Timeline: 2025 – 2029 | Currently in 2nd Year**) with a strong interest in robotics, embedded systems, and AI/ML integration. I am passionate about engineering hardware-software solutions for emergency response and actively contribute to the global open-source developer community.
 
 ---
 
@@ -44,8 +45,16 @@ I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) wi
 
 ### **GirlScript Summer of Code (GSSOC 2026)** | *Active Contributor*
 
-* **Successfully merged 30+ Pull Requests (PRs)** across diverse open-source repositories.
+* **Successfully merged 60+ Pull Requests (PRs)** across diverse open-source repositories.
 * Collaborating closely with project maintainers using advanced Git/GitHub workflows, managing issue tracking, and optimizing code structure.
+
+#### 🏅 GSSoC 2026 Badges:
+<p align="left">
+  <img src="assets/badges/gssoc_contributor.png" width="100" alt="GSSoC 2026 Contributor" />
+  <img src="assets/badges/gssoc_prolific_merge.png" width="100" alt="GSSoC 2026 Prolific Merge" />
+  <img src="assets/badges/gssoc_champion.png" width="100" alt="GSSoC 2026 Champion" />
+  <img src="assets/badges/gssoc_elite.png" width="100" alt="GSSoC 2026 Elite" />
+</p>
 
 ---
 
@@ -57,13 +66,21 @@ I am a dedicated **B.Tech Information Technology** undergraduate (Semester 2) wi
 * **Mechanical Innovation:** Prototyped and fabricated a custom tactile "pit sensor" using a GSM antenna spring for highly responsive ground detection.
 * **Software Dashboard:** Developing a Python/AI-integrated dashboard capable of monitoring the robot's data streams and automatically contacting emergency services if manual help is not provided within a designated timeframe.
 
+### 🔮 Horizin AI
+* **Overview:** Engineered an AI-driven predictive intelligence suite designed to monitor system telemetry metrics and report diagnostic health thresholds.
+* **Key Features:** Features real-time telemetry processing pipelines, visual threshold alert mechanisms, and dynamic responsive models.
+
+### 🏙️ Lol City
+* **Overview:** Built an interactive web application featuring dynamic layout state updates, complex modular component interfaces, and clean responsive CSS workflows.
+* **Key Features:** Emphasizes micro-interactions, low-latency client-side rendering, and performance optimizations.
+
 ---
 
 ## 🎓 Education
 
 **Guru Tegh Bahadur Institute of Technology**
 * **Degree:** B.Tech in Information Technology
-* **Timeline:** 2025 – Present *(Currently in Semester 2)*
+* **Timeline:** 2025 – 2029 *(Currently in 2nd Year)*
 
 ---
 <p align="center">⭐️ Feel free to check out my repositories and connect with me! ⭐️</p>
