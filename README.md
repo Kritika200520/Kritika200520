@@ -71,7 +71,7 @@ I am a dedicated **B.Tech Information Technology** undergraduate student (**Time
 * **Mechanical Innovation:** Prototyped and fabricated a custom tactile "pit sensor" using a GSM antenna spring for highly responsive ground detection.
 * **Software Dashboard:** Developing a Python/AI-integrated dashboard capable of monitoring the robot's data streams and automatically contacting emergency services if manual help is not provided within a designated timeframe.
 
-### 🔮 Horizin AI
+### 🔮 Horizon AI
 * **Overview:** Engineered an AI-driven predictive intelligence suite designed to monitor system telemetry metrics and report diagnostic health thresholds.
 * **Key Features:** Features real-time telemetry processing pipelines, visual threshold alert mechanisms, and dynamic responsive models.
 
