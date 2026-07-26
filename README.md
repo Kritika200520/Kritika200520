@@ -54,6 +54,10 @@ I am a dedicated **B.Tech Information Technology** undergraduate student (**Time
 <img width="90" height="90" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/dba3e251-f5cd-4478-9073-8d3b2cb57b48" />
 <img width="90" height="90" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/b97202fd-a4b4-4175-9956-882df3b912e7" />
  <img width="90" height="90" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/a8bdfeae-a70f-4cb1-b424-350e78acb294" />
+ <img width="90" height="90" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/c81af4f5-a749-45a9-9c2b-9cac018703b3" />
+ <img width="90" height="90" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/3b0e403e-a2a9-4e56-b54b-e1bd1edcf8f6" />
+
+
 
 </p>
 
