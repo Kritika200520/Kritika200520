@@ -50,10 +50,13 @@ I am a dedicated **B.Tech Information Technology** undergraduate student (**Time
 
 #### 🏅 GSSoC 2026 Badges:
 <p align="left">
-  <img src="assets/badges/gssoc_contributor.png" width="100" alt="GSSoC 2026 Contributor" />
-  <img src="assets/badges/gssoc_prolific_merge.png" width="100" alt="GSSoC 2026 Prolific Merge" />
-  <img src="assets/badges/gssoc_champion.png" width="100" alt="GSSoC 2026 Champion" />
-  <img src="assets/badges/gssoc_elite.png" width="100" alt="GSSoC 2026 Elite" />
+  <img src=<img width="1080" height="1080" alt="gssoc-badge-prolific" src="https://github.com/user-attachments/assets/178a4b6f-bc6e-4784-ad75-bc3549948dd2"  />
+  <img src= <img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/b1d5b084-7c29-40c7-9340-5e4f3342f578" />
+ 
+  <img src=<img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/44ffc0e9-02e8-40e3-a420-4b5c4695b605" />
+ 
+  <img src=<img width="1080" height="1080" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/2873743e-fa70-4c5c-ac86-6aba18cbcb96" />
+ 
 </p>
 
 ---
