@@ -64,13 +64,6 @@ I am a dedicated **B.Tech Information Technology** undergraduate student (**Time
 ---
 
 ## 💻 Featured Projects
-
-### 🛡️ Robo Raksha | *Mobile Rescue Robot*
-* **Overview:** Engineered a mobile rescue robot specifically designed for emergency monitoring and disaster rescue operations.
-* **Hardware Integration:** Integrated an ESP32 camera for constant live streaming alongside a suite of environmental sensors (Sound, Vibration, Flame) to accurately detect hazards.
-* **Mechanical Innovation:** Prototyped and fabricated a custom tactile "pit sensor" using a GSM antenna spring for highly responsive ground detection.
-* **Software Dashboard:** Developing a Python/AI-integrated dashboard capable of monitoring the robot's data streams and automatically contacting emergency services if manual help is not provided within a designated timeframe.
-
 ### 🔮 Horizon-Workspace
 * **Overview:** Engineered an AI-driven predictive intelligence suite designed to monitor system telemetry metrics and report diagnostic health thresholds.
 * **Key Features:** Features real-time telemetry processing pipelines, visual threshold alert mechanisms, and dynamic responsive models.
